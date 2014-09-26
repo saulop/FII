@@ -2,7 +2,6 @@ Changelog
 =========
 
 mudança. 2.
-outra mudança.
 
 
 
